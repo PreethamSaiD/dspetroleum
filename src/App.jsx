@@ -34,7 +34,7 @@ export default function PetroleumLogisticsWebsite() {
         <div className="relative max-w-7xl mx-auto px-6 py-24 lg:py-32">
           <nav className="flex items-center justify-between mb-20">
             <div>
-              <h1 className="text-2xl font-bold tracking-wide">D SRINIVAS PETROLEUM LOGISTICS</h1>
+              <h1 className="text-2xl font-bold tracking-wide">DS PETROLEUM LOGISTICS</h1>
               <p className="text-sm text-gray-300 mt-1">Fuel Transportation & Tanker Services</p>
             </div>
 
@@ -266,7 +266,7 @@ export default function PetroleumLogisticsWebsite() {
       <section id="contact" className="bg-slate-950 text-white py-20">
         <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-3 gap-14">
           <div>
-            <h3 className="text-3xl font-extrabold mb-5">D SRINIVAS PETROLEUM LOGISTICS</h3>
+            <h3 className="text-3xl font-extrabold mb-5">DS PETROLEUM LOGISTICS</h3>
             <p className="text-gray-400 leading-relaxed">
               Professional petroleum tanker transportation company delivering fuel logistics solutions with safety, efficiency, and reliability.
             </p>
@@ -292,7 +292,7 @@ export default function PetroleumLogisticsWebsite() {
               </div>
 
               <div>
-                <span className="font-semibold text-white">Email:</span> info@dspetroleums.com
+                <span className="font-semibold text-white">Email:</span> preetham9849@gmail.com
               </div>
 
               <div>
@@ -303,7 +303,7 @@ export default function PetroleumLogisticsWebsite() {
         </div>
 
         <div className="border-t border-white/10 mt-16 pt-8 text-center text-gray-500 text-sm px-6">
-          © 2026 D SRINIVAS Petroleum Logistics. All rights reserved.
+          © 2026 DS Petroleum Logistics. All rights reserved.
         </div>
       </section>
     </div>
